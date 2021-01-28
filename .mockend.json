@@ -1,0 +1,17 @@
+{
+  "User": {
+    "username": "string",
+    "email": "string",
+    "phone": "string",
+    "firstname": "string",
+    "lastname": "string",
+    "bio": "string",
+    "image": "string",
+    "othernames": "string",
+    "dateOfBirth": "date",
+    "tier": "string",
+    "points": "int",
+    "joinedAt": "date",
+    "active": "boolean"
+  }
+}
